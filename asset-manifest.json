@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-spotify-newfeed/static/css/main.8e81631b.chunk.css",
-    "main.js": "/react-spotify-newfeed/static/js/main.7cd07a17.chunk.js",
-    "main.js.map": "/react-spotify-newfeed/static/js/main.7cd07a17.chunk.js.map",
+    "main.js": "/react-spotify-newfeed/static/js/main.8c17ebb2.chunk.js",
+    "main.js.map": "/react-spotify-newfeed/static/js/main.8c17ebb2.chunk.js.map",
     "runtime-main.js": "/react-spotify-newfeed/static/js/runtime-main.d4c0b45e.js",
     "runtime-main.js.map": "/react-spotify-newfeed/static/js/runtime-main.d4c0b45e.js.map",
     "static/js/2.951978e1.chunk.js": "/react-spotify-newfeed/static/js/2.951978e1.chunk.js",
     "static/js/2.951978e1.chunk.js.map": "/react-spotify-newfeed/static/js/2.951978e1.chunk.js.map",
     "index.html": "/react-spotify-newfeed/index.html",
-    "precache-manifest.47874c4ec9249a639b816256652c1b5e.js": "/react-spotify-newfeed/precache-manifest.47874c4ec9249a639b816256652c1b5e.js",
+    "precache-manifest.1eb27dff48d24ee2d2216acfc663ffd7.js": "/react-spotify-newfeed/precache-manifest.1eb27dff48d24ee2d2216acfc663ffd7.js",
     "service-worker.js": "/react-spotify-newfeed/service-worker.js",
     "static/css/main.8e81631b.chunk.css.map": "/react-spotify-newfeed/static/css/main.8e81631b.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d4c0b45e.js",
     "static/js/2.951978e1.chunk.js",
     "static/css/main.8e81631b.chunk.css",
-    "static/js/main.7cd07a17.chunk.js"
+    "static/js/main.8c17ebb2.chunk.js"
   ]
 }
