@@ -33,7 +33,7 @@ window.location.hash = "";
 
 //Auth link
 var cid = process.env.REACT_APP_CLIENT_ID;
-var uri = process.env.REACT_APP_CALLBACK_URI;
+var uri = "https://aung-khant-min.github.io/react-spotify-newfeed";
 var spotifyAuth = `https://accounts.spotify.com/authorize?client_id=${cid}&redirect_uri=${uri}&scope=user-read-currently-playing&response_type=token&show_dialog=true`;
 
 //First Appearence
